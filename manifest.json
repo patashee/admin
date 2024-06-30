@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Patashi Admin",
+  "name": "Patashi Admin for Order and product management",
   "icons": [
     {
       "src": "favicon.ico",
